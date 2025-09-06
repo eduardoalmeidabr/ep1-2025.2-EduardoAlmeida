@@ -10,10 +10,10 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** Eduardo dos Santos Almeida Costa
+- **Matrícula:** 231030501
+- **Curso:** Engenharia Eletrônica
+- **Turma:** Turma 02 (T02)
 
 ---
 
