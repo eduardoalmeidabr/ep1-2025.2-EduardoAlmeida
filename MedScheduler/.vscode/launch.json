@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MedScheduler",
+            "classPaths": [
+                "${workspaceFolder}/lib/*"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch Tests",
+            "request": "launch",
+            "mainClass": "org.junit.platform.console.ConsoleLauncher",
+            "args": [
+                "--class-path",
+                "${workspaceFolder}/lib/*:${workspaceFolder}/src:${workspaceFolder}/test/java",
+                "--scan-class-path"
+            ],
+            "projectName": "MedScheduler"
+        }
+    ]
+}
+
+
+
