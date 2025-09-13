@@ -150,7 +150,7 @@ O sistema deve simular o funcionamento de um hospital com cadastro de *pacientes
 
 ## Andamento
 
--  Criação dos diagramas de casos de uso (início da modelagem do sistema usando UML como projeto)
+- [ ] Criação dos diagramas de casos de uso (início da modelagem do sistema usando UML como projeto)
 - [ ] Criação dos diagramas de classe usando Modelio
 - [ ] Adição dos relacionamentos aos diagramas de classe
 - [ ] Inclusão dos atributos das classes e suas respectivas visibilidades
