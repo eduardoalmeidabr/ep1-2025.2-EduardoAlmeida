@@ -1,4 +1,12 @@
-# 🏥 Trabalho Prático – Sistema de Gerenciamento Hospitalar  
+# 🏥 Trabalho Prático – Sistema de Gerenciamento Hospitalar 
+
+O gerenciamento hospitalar é algo de extrema complexidade, pois envolve a ação coordenada de diversos especialistas de áreas distintas.
+
+A implementação de protocolos eficientes e de sistemas capazes de lidar com essa complexidade pode significar a saúde do paciente ou até sua vida, o pagamento adequado dos médicos, enfermeiros, técnicos e espcialistas de diversas áreas e colaboradores, além da subsistência de todo o hospital, como suas receitas, necessárias para mantê-lo de portas abertas, e da bom relacionamento entre o hospital e seus fornecederes.
+
+Com isso em mente, propomos o MedScheduler, que um sistema capaz de lidar com toda a jornada do paciente, proporcionando uma experiência adequada e consistente em todos os pontos de contato, desde a primeira interação com a instituição até o pós-atendimento.
+
+> ℹ️ Este projeto foi criado para atender o requisito parcial para aprovação na disciplina de "Orientação a Objetos" da Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da UnB - Campus Gama, e **não deve ser usado em produção**, pois é necessário um forte estudo de Engenharia de Requisitos e implantação de subsistemas tolerantes à falha, **entre outros**, para lidar adequadamente com a rotina hospitalar.
 
 ### 🎯 Objetivo  
 Implementar um *Sistema de Gerenciamento Hospitalar* em *Java, aplicando conceitos avançados de **Programação Orientada a Objetos (POO), com foco em **herança, polimorfismo, encapsulamento, persistência de dados* e *regras de negócio mais complexas*.  
@@ -11,7 +19,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 ## Dados do Aluno
 
 - **Nome completo:** Eduardo dos Santos Almeida Costa
-- **Matrícula:** 231030501
+- <details><summary><strong>Matrícula: </strong></summary> 231030501</details>
 - **Curso:** Engenharia Eletrônica
 - **Turma:** Turma 02 (T02)
 
@@ -19,7 +27,7 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 ## Instruções para Compilação e Execução
 
-1. **Compilação:**  
+1. **Compilação:**
    [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
 
 2. **Execução:**  
@@ -58,13 +66,6 @@ Desenvolvimento de um sistema de gerenciamento hospitalar utilizando os conceito
 
 - [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
 
----
-
-## Contato
-
-- [Opcional: E-mail pessoal do aluno.]
-
----
 
 ### 🖥️ Descrição do Sistema  
 
@@ -116,7 +117,12 @@ O sistema deve simular o funcionamento de um hospital com cadastro de *pacientes
 - O sistema deve ser implementado em *Java*.  
 - Interface via *terminal (linha de comando)*.  
 - Os dados devem ser persistidos em *arquivos* (.txt ou .csv).  
-- Deve existir *menu interativo*, permitindo navegar entre as opções principais.  
+- Deve existir *menu interativo*, permitindo navegar entre as opções principais.
+
+- Extras:
+  - Uso dos princípios SOLID
+  - Arquitetura limpa e código limpo
+  - Modelagem UML
 
 ---
 
@@ -140,3 +146,12 @@ O sistema deve simular o funcionamento de um hospital com cadastro de *pacientes
 - Exportação de relatórios em formato .csv ou .pdf.  
 - Implementação de testes unitários para classes principais.  
 - Menu visual.
+
+
+## Andamento
+
+-  Criação dos diagramas de casos de uso (início da modelagem do sistema usando UML como projeto)
+- [ ] Criação dos diagramas de classe usando Modelio
+- [ ] Adição dos relacionamentos aos diagramas de classe
+- [ ] Inclusão dos atributos das classes e suas respectivas visibilidades
+- [ ] Inclusão dos métodos ou comportamentos das classes
